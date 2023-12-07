@@ -58,13 +58,13 @@ Computational Cognitive Neuroscience, Decision-making, Deep Learning
 ## Professional Experiences
 
 - **Jun. 2021 - Now**
-  - **Co-founder and Main Designer** of the *Indie Game <Elysium Above>*, Sweet Potato Studio ([released on Steam](https://store.steampowered.com/app/1509450/Elysium_Above/))
+  - **Co-founder and Main Designer** of the *Indie Game \<Elysium Above\>*, Sweet Potato Studio ([released on Steam](https://store.steampowered.com/app/1509450/Elysium_Above/))
     - Led the strategic framework design which underpins the core gameplay mechanics.
     - Led game testing efforts, substantially enhancing both player experience and overall game stability.
     - Offered pivotal support in constructing and debugging the program structure within Unity3D.
 
 - **Jul. 2019 - Oct. 2019**
-  - **Designer** of *the Indie Game <Kelipot>*, Unlimited Fly Games ([released on Steam](https://store.steampowered.com/app/1090440/Kelipot/))
+  - **Designer** of *the Indie Game \<Kelipot\>*, Unlimited Fly Games ([released on Steam](https://store.steampowered.com/app/1090440/Kelipot/))
     - Managed numerical planning and orchestrated comprehensive level designs.
     - Introduced an automatic probabilistic model, which optimized level values, bolstering game balance and overall play experience.
     - Contributed to gameplay and non-player character designs, including character appearances and capabilities, which received significant positive feedback from players.
