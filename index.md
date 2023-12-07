@@ -72,11 +72,11 @@ Computational Cognitive Neuroscience, Decision-making, Deep Learning
 ## Project Experiences
 
 - **Jun. 2018 - Jun. 2019**
-  - **Main Translator** of the handbook [*<A Concise Handbook of TensorFlow>*](https://tf.wiki)
+  - **Main Translator** of the handbook [*\<A Concise Handbook of TensorFlow\>*](https://tf.wiki)
     - Translated the book into English, receiving commendations from TensorFlow's official Twitter and endorsements from both the Google Developer Relations Team and TensorFlow Engineering Team.
 
 - **Nov. 2017 - Now**
-  - **Creator** of the educational program [*<USTC Linux 101>*](https://101.lug.ustc.edu.cn/)
+  - **Creator** of the educational program [*\<USTC Linux 101\>*](https://101.lug.ustc.edu.cn/)
     - Pioneered a comprehensive Linux education program, *USTC Linux 101*, successfully acquainting numerous USTC students with foundational Linux operations and development.
     - Continuously lead the project team in updating and refining the program, ensuring its accessibility and standardization.
 
@@ -126,7 +126,7 @@ Computational Cognitive Neuroscience, Decision-making, Deep Learning
 - **May. 2017 - Apr. 2018**
   - **Vice President**, Linux User Group of USTC
     - Contributed to the technical maintenance and promotion, a renowned open-source mirror in China.
-    - Launched a series of lectures *<Linux 101>* to bolster peers' proficiency in Linux operations.
+    - Launched a series of lectures *\<Linux 101\>* to bolster peers' proficiency in Linux operations.
     - Facilitated open discussions, both internal and with external members, centered on cutting-edge computer techniques.
 
 - **May. 2016 - Apr. 2017**
